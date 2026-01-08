@@ -1,9 +1,9 @@
 # ИИ-ассистент для салона красоты
 
-Ссылка на проект  -
+Ссылка на проект  -@stydiya_iv_bot
 
 
-Скриншот бота ["https://github.com/user-attachments/assets/46b87afb-c252-49e1-8cdb-0d6efcd525ae"](https://github.com/scorpishek/AI-assistant/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%B1%D0%BE%D1%82%D0%B0.png?raw=true) />
+Скриншот бота ["https://github.com/user-attachments/assets/46b87afb-c252-49e1-8cdb-0d6efcd525ae"](https://github.com/scorpishek/AI-assistant/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%B1%D0%BE%D1%82%D0%B0.png?raw=true)
 
 
 ## Описание проекта
